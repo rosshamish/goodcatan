@@ -40,6 +40,7 @@ Some notes about this paper.
 
 A Tutorial on Hidden Markov Models and Selected Application in Speech Recognition ([Rabiner, 1989])  
 Some notes about this paper.
+
 [Rabiner, 1989]: http://www.ee.columbia.edu/~dpwe/e6820/papers/Rabiner89-hmm.pdf
 
 ###### Reinforcement Learning
@@ -71,8 +72,6 @@ Cuayáhuitl, Heriberto, Simon Keizer, and Oliver Lemon. "Learning Trading Negoti
 [Cuayáhuitl, 2015 (a)]: http://www.macs.hw.ac.uk/~hc213/publications/hc-ictai2015.pdf
 
 Strategic Dialogue Management via Deep Reinforcement Learning ([Cuayahuitl, 2015 (b)])
-
-[Cuayahuitl, 2015 (b)]: http://arxiv.org/abs/1511.08099
 
 ##### Chess AI Theory
 [lit-chess-ai-theory]: #chess-ai-theory
