@@ -17,7 +17,7 @@ Developed (hopefully) as part of ECE 406 Special Topics in Computer Engineering.
 
 > Author: Ross Anderson ([rosshamish])
 
-[rosshamish]: (https://github.com/rosshamish)
+[rosshamish]: https://github.com/rosshamish
 
 ---
 
