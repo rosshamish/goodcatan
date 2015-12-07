@@ -2,6 +2,7 @@
 ## Table of Contents
 
 1. [Proposal](#proposal)
+	1. [Objectives][prop-objectives]
 	1. [Brief introduction to the topic][prop-intro]
 	1. [Outline of the responsibilities of the student][prop-responsibilities]
 	1. [Demonstration that this project will require at least 100 hours of work on the part of the student][prop-hours]
