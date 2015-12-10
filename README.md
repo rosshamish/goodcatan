@@ -13,6 +13,10 @@ goodcatan
 
 Tries not to play bad catan.
 
+A work in progress.
+
+Current state: **Literature Review**
+
 > Authors: Ross Anderson ([rosshamish]),
 
 [rosshamish]: https://github.com/rosshamish
