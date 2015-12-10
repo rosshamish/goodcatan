@@ -13,9 +13,7 @@ goodcatan
 
 Tries not to play bad catan.
 
-Developed (hopefully) as part of ECE 406 Special Topics in Computer Engineering.
-
-> Author: Ross Anderson ([rosshamish])
+> Authors: Ross Anderson ([rosshamish]),
 
 [rosshamish]: https://github.com/rosshamish
 
